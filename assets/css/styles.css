@@ -5,3 +5,8 @@ body{
 -nav imem{
     color: white;
 }
+
+.footer{
+    height: 50px;
+    padding-top: 20px;
+}
