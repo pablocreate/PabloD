@@ -2,11 +2,38 @@ body{
     background-color:#2a2a2a;
 }
 
--nav imem{
+.nav imem{
     color: white;
 }
 
 .footer{
-    height: 50px;
+    height: 120px;
     padding-top: 20px;
 }
+
+h1,h2,h4,h5,a,h6 {
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+  }
+a{
+    color: aliceblue;
+}
+  .titulos{
+    color: rgb(107, 142, 152);
+  }
+
+  .card{
+    padding-right: 12px;
+    padding-left: 12px;
+    padding: 20px;
+    margin: 20px;
+    background-color: rgb(125, 125, 125);
+    
+
+  }
+
+
+  
+  
