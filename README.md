@@ -1,1 +1,5 @@
-estos son los don compañeros que hice forked y commint 
+estos son los don compañeros que hice forked y commint :
+............................................................
+https://github.com/pablocreate/Lunatico87.github.io
+.............................................................
+https://github.com/pablocreate/cv-portafolio
