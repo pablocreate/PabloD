@@ -8,9 +8,9 @@ https://github.com/pablocreate/cv-portafolio
 SITIO WEB CURRICULUM
 
 LA SECCION PORTAFOLIO TIENE LOS 5 PROYECTOS REALISADOS EN LAS CLASES
-, CON ENLACES A SUS REPOSITORIOS,
+, CON ENLACES A SUS REPOSITORIOSCORRESPONDIENTES
 
-dejos de igual manera los link de esos trabajos
+< IGUAL DEJO LOS LINK DE CADA PROYECTO>
 
 1 ) https://pablocreate.github. io/desafio1.io/
 
