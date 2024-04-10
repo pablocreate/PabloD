@@ -1,4 +1,4 @@
-Estos son los dos compañeros que hice forked y commint :
+
 link deploy
 
 https://pablocreate.github.io/pablod/index.html
