@@ -1,4 +1,6 @@
 Estos son los dos compañeros que hice forked y commint :
+link deply
+https://pablocreate.github.io/pablod/index.html
 ............................................................
 https://github.com/pablocreatehttps://pablocreate.github.io/desafio2.io//Lunatico87.github.io
 .............................................................
